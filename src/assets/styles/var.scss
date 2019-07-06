@@ -1,0 +1,13 @@
+$primary-color: #007fff;
+:root {
+  --primary-color: $primary-color;
+}
+body {
+  color: $primary-color;
+}
+#app {
+  width: 100px;
+  height: 100px;
+  background: $primary-color;
+  transform: translateX(100px);
+}
