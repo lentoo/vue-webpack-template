@@ -1,4 +1,4 @@
-# vue-admin
+# vue-webpack-template
 
 ![](https://img.shields.io/badge/license-MIT-0.svg)
 ![](https://img.shields.io/badge/download-2M-0.svg)
